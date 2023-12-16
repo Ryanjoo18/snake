@@ -1,0 +1,1 @@
+Snake is a game where the player manoeuvres the end of a growing line, often themed as a snake. The player must keep the snake from colliding with both other obstacles and itself, which gets harder as the snake lengthens.
